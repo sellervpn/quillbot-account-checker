@@ -1,6 +1,8 @@
 # quillbot-account-checker
 quillbot account checker
-***
-bash
+
+# install
 pip install requests
-***
+
+#key
+oCBoX2h9kVcwZK6l
