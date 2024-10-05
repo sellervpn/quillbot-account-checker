@@ -1,13 +1,19 @@
 # quillbot-account-checker
+
 quillbot account checker
 
+## install script
+
 ### install
-* install library
-```bash
-pip install requests
 
-### key
-* Key akses script
-```bash
-oCBoX2h9kVcwZK6l
+* instal library
 
+   ```bash
+   pip install requests
+
+
+### key akses script
+* mkey akses:
+
+    ```bash
+    oCBoX2h9kVcwZK6l
