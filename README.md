@@ -2,6 +2,7 @@
 quillbot account checker
 
 ### install
+* install library
 ```bash
 pip install requests
 
