@@ -13,7 +13,7 @@ quillbot account checker
 
 
 ### key akses script
-* mkey akses:
+* key akses:
 
     ```bash
     oCBoX2h9kVcwZK6l
